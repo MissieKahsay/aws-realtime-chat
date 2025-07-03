@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+.env
+
+# macOS
+.DS_Store
+
+# AWS CDK / Serverless artifacts
+cdk.out/
+.cache/
+.aws-sam/
+.idea/
+
+# VS Code
+.vscode/
+
+# Frontend build artifacts
+dist/
+build/
+
+# Logs
+*.log
+logs/
