@@ -102,8 +102,7 @@ Details in [dynamodb-schema.md](./dynamodb-schema.md)
 ## ✨ Author
 
 Built with ❤️ by **Missie Kahsay**  
-Certified AWS Solutions Architect + JavaScript Developer  
-[LinkedIn →](https://www.linkedin.com/in/missiekahsay/)
+Certified AWS Solutions Architect + JavaScript Developer
 
 ---
 
